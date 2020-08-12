@@ -2,7 +2,7 @@
 
 
 I'm a Web Developer / Software Engineer in 🧑‍💻 **[Supnex](https://supnex.com)**.  <br />
-I'm a Graduate Student 🎓 in the field of **Electrical Engineering** in Iran. <br />
+I'm a Graduate Student 🎓 in the field of **Electrical Engineering**. <br />
 
 <br/>
 <a href="https://twitter.com/mrzgolkhandani">
