@@ -1,3 +1,9 @@
+## Hey You! I'm Golkhandani 🌹🤣!
+
+
+I'm a Web Developer / Software Engineer in 🧑‍💻 **[Supnex](https://supnex.com)**.  <br />
+I'm a Graduate Student 🎓 in the field of **Electrical Engineering** in Iran. <br />
+
 <br/>
 <a href="https://twitter.com/mrzgolkhandani">
   <img align="left" alt="Golkhandani's Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
@@ -12,5 +18,5 @@
 <br /> 
 <br />
 
-I'm a Graduate Student 👨🏽‍💼 in the field of **Electrical Engineering** in Iran. <br />
-I'm a Web Developer / Software Engineer **[Supnex](https://supnex.com)**  <br />
+
+
