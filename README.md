@@ -32,7 +32,7 @@ I'm a Graduate Student 🎓 in the field of **Electrical Engineering**. <br />
 <p>
     <img height="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/220px-Typescript_logo_2020.svg.png" />
-    <span> to better support of OOP and SOLID.</span>
+    <span> to have a better support of OOP and SOLID.</span>
 </p>
 <p>
     <strong>Koa</strong>
