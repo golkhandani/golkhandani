@@ -1,7 +1,7 @@
 ## Hey You! I'm Golkhandani 🌹🤣!
 
 
-I'm a Web Developer / Software Engineer in 🧑‍💻 **[Supnex](https://supnex.com)**. <br />
+I'm a Web Developer / Software Engineer at 🧑‍💻 **[Supnex](https://supnex.com)**. <br />
 I'm a Graduate Student 🎓 in the field of **Electrical Engineering**. <br />
 
 <br />
