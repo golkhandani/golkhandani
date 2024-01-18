@@ -1,8 +1,7 @@
 ## Hey You! I'm Golkhandani 🌹🤣!
 
 
-I'm a Web Developer / Software Engineer at 🧑‍💻 **[Plasmatic Technologies](https://www.plasmatic.ai/)**. <br />
-I'm a Graduate Student 🎓 in the field of **Electrical Engineering**. <br />
+I'm a Web Developer / Software Engineer <br />
 
 <br />
 <a href="https://twitter.com/mrzgolkhandani">
@@ -32,7 +31,7 @@ I'm a Graduate Student 🎓 in the field of **Electrical Engineering**. <br />
 <p>
     <img height="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/220px-Typescript_logo_2020.svg.png" />
-    <span> to have a better support of OOP and SOLID.</span>
+    <span> to have better support of OOP and SOLID.</span>
 </p>
 <p>
     <strong>Koa</strong>
