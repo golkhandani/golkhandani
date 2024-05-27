@@ -1,6 +1,6 @@
 # 🌟 Mohammadreza Rahimiangolkhandani 🌟
 
-- 📍 Location: Vancouver, BC
+- 📍 Location: Ontario, Canada
 - 👨‍💻 GitHub: [golkhandani](https://github.com/golkhandani)
 - 👔 LinkedIn: [golkhandani](https://www.linkedin.com/in/golkhandani)
 - 🚀 Dev.to: [golkhandani](https://dev.to/golkhandani)
